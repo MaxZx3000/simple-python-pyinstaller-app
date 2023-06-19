@@ -1,6 +1,6 @@
 # simple-python-pyinstaller-app
 
-<br>
+<hr>
 
 NOTE: This is a forked repository from https://github.com/jenkins-docs/simple-python-pyinstaller-app.
 
@@ -9,7 +9,7 @@ Some modifications are listed as below.
 - Added requirements.txt for listing a list of libraries to be used.
 - Modify jenkins so it can be deployed to deta space.
 
-<br>
+<hr>
 
 This repository is for the
 [Build a Python app with PyInstaller](https://jenkins.io/doc/tutorials/build-a-python-app-with-pyinstaller/)
